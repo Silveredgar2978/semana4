@@ -37,3 +37,9 @@ git clone = Downloads a repo from GitHub to your computer
 #git commit -m "message"
 
 #now i create a new repo and post
+"""
+#now i added a repository in github and used the push terminal commands they gave me, and boom they got into github, i can see in 
+#https://github.com/Silveredgar2978/semana4
+
+so basically when i git add . i will add all the files i want to commit putting them in a box. then using git commit -m "the comment i want to put for this commit" and then i git push because it already is in a repo in github. i dont have to create a new repo every time.
+"""
