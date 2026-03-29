@@ -16,3 +16,10 @@
 ## when the enviornment is active the terminal will show (.venv) instead of >
 
 #we don't want git to track the .venv folder because its huge, auto-generated, and different on every machine. everyone who clones my repo will create their own digital enviornment anyway
+
+### total virtual env workflow
+
+#enter a folder which already has your .venv folder, or create one
+#activate by typing= source .venv/bin/activate you will know its activated when you see (.venv) in the terminal
+#install your libraries, and work normally
+#then when you're done just type= deactivate
