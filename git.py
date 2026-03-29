@@ -35,3 +35,5 @@ git clone = Downloads a repo from GitHub to your computer
 #git add . (. to add everything in the folder) #puts in box
 
 #git commit -m "message"
+
+#now i create a new repo and post
