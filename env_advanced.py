@@ -18,6 +18,8 @@
 #with requirements.txt they can just install all of the required libraries in one go and here is how.
 
 #first you type=       pip freeze > requirements.txt     in the terminal
+#we type all of this because it will automatically add all of your downloaded libraries there.
+# pip freeze (lists all the downloaded pips), > (moves to the right), requirements.txt(is the file where every pip install is going to go)
 #for everyone that clones your repo they run= pip install -r requirements.txt   and they get everything they need.
 
 ### another thing they havent seen is the .env.example, its just a file in your repo that represents how your real env is placed. so that they can fill out the missing info and make it their .env file. this is because you can't share your real .env file.
